@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc2b3d95beca99140b676e172a7ed44f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CellPrefab: {instanceID: 0}
+  - Floor: {fileID: 7732476100912838910, guid: 9a918022bb165a4409fb9f5deda4263a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
